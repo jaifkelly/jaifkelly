@@ -38,13 +38,9 @@
 <hr>
 <h4>📲 ways to reach me:</h4>
   <p>
-   <a href="https://discord.gg/users/413075686740328469">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-   <a href="mailto:jailenefkelly@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=discord" title="@jaifkay"/>
+    <img src="https://skillicons.dev/icons?i=gmail" title="jailenefkelly@gmail.com"/>
   <a href="https://linkedin.com/in/jailenefkelly">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" title="jailenefkelly"/>
   </a>
   </p>
